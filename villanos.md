@@ -3,4 +3,4 @@
 * Dr. Doom
 * Red Skull
 * Jocker
-* Dr. FerPeke
+* Capitan América
