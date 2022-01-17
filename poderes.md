@@ -4,3 +4,4 @@
 * Super Fuerza
 * Rapidez
 * Inmortalidad
+* Invisibilidad
